@@ -1,0 +1,28 @@
+[
+  {
+    "id": "0ee3c6f5229135ba483d7812cb2ec46ef10d329f31c243323947beb38b54ac33i0",
+    "number": 900909,
+    "address": "bc1p0a86zwcyc0v64j76lw6ql70je3cmplk5kqfe80mjgss4hfdmf7cqwfryyc",
+    "genesis_address": "bc1p0a86zwcyc0v64j76lw6ql70je3cmplk5kqfe80mjgss4hfdmf7cqwfryyc",
+    "genesis_block_height": 783996,
+    "genesis_block_hash": "0000000000000000000141ad49c46984ad5d4973c88775d5a0277234acc589a4",
+    "genesis_tx_id": "0ee3c6f5229135ba483d7812cb2ec46ef10d329f31c243323947beb38b54ac33",
+    "genesis_fee": "383275",
+    "genesis_timestamp": 1680661168000,
+    "tx_id": "0ee3c6f5229135ba483d7812cb2ec46ef10d329f31c243323947beb38b54ac33",
+    "location": "0ee3c6f5229135ba483d7812cb2ec46ef10d329f31c243323947beb38b54ac33:0:0",
+    "output": "0ee3c6f5229135ba483d7812cb2ec46ef10d329f31c243323947beb38b54ac33:0",
+    "value": "10000",
+    "offset": "0",
+    "sat_ordinal": "1721970524061671",
+    "sat_rarity": "common",
+    "sat_coinbase_height": 537576,
+    "mime_type": "audio/wav",
+    "content_type": "audio/wav",
+    "content_length": 304324,
+    "timestamp": 1680661168000,
+    "curse_type": null,
+    "recursive": false,
+    "recursion_refs": null
+  }
+]

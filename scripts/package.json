@@ -1,0 +1,21 @@
+{
+  "name": "ord.audio-scriots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pull.js",
+  "type": "module",
+  "scripts": {
+    "pull": "ts-node --esm ./pull.ts",
+    "songs": "ts-node --esm ./songs.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "get-audio-duration": "3.1.1",
+    "got": "^12.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.8",
+    "ts-node": "^10.9.1"
+  }
+}
